@@ -19,4 +19,4 @@ Documented findings and provided remediation recommendations.
 
 📄 Report
 
-The full vulnerability assessment is documented in.
+The full vulnerability assessment is documented in FUTURE_CS_01.docx.
