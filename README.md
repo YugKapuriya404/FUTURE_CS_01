@@ -16,3 +16,7 @@ Performed SQL Injection test on login forms.
 Detected Cross-Site Scripting (XSS) vulnerabilities.
 Conducted Brute Force attack simulation on weak logins.
 Documented findings and provided remediation recommendations.
+
+📄 Report
+
+The full vulnerability assessment is documented in.
